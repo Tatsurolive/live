@@ -5,5 +5,5 @@
 -- List of color names: https://semantic-ui.com/usage/theming.html#sitewide-defaults
 , theme = "black"
 -- This is used in the "edit" button
-, editUrl = Sone "https://github.com/Tatsurolive/live/edit/master/"
+, editUrl = Some "https://github.com/Tatsurolive/live/edit/master/"
 }
