@@ -2,26 +2,26 @@
 
 ### Available Live Version
 
-- [[1981.03.11]] PERFORMANCE '81 EVE
+- [[1981.03.11]]
     > *Broadcasting Date:*  
     > [[1981.03.24]]
 
-- [[1981.12.27-28]] PERFORMANCE '81-'82
+- [[1981.12.27-28]]
     > *Broadcasting Date:*  
     > [[1982.07.26]]  
     > [[1997.10.19]]
 
-- [[1985.02.23-24]] PERFORMANCE '84-'85
+- [[1985.02.23-24]]
     > *Broadcasting Date:*  
     > [[1985.08.01]]  
     > [[2020.04.19]]
 
-- [[1999.02.11]] PERFORMANCE '98-'99
+- [[1999.02.11]]
     > *Broadcasting Date:*  
     > [[1999.02.28]]  
     > [[2001.06.24]]
 
-- [[2014.10.10]] PERFORMANCE 2014 Live From THE BOTTOM LINE
+- [[2014.10.10]]
     > *Broadcasting Date:*  
     > [[2015.06.14]]  
     > [[2019.11.10]]  
