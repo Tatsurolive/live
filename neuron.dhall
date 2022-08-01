@@ -3,7 +3,7 @@
 , author = Some "川´3`)"
 , siteBaseUrl = Some "https://tatsurolive.github.io/live/"
 -- List of color names: https://semantic-ui.com/usage/theming.html#sitewide-defaults
-, theme = "black"
+, theme = "blue"
 -- This is used in the "edit" button
 , editUrl = Some "https://github.com/Tatsurolive/live/edit/master/"
 }
