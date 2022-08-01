@@ -4,4 +4,3 @@ Test Test Tatsuro Tatsuro
 
 ### Test Page
 - [[1985.02.23-24]]
-- [[1999.02.11]]
